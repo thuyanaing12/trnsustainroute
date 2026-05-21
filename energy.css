@@ -1,0 +1,40 @@
+body {
+    background-color:#213C51;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar {
+    background-color: #7a7693;
+    margin: 20px;
+    border-radius: 50px;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+}
+
+.nav {
+    background: #EEEEEE;
+    padding: 10px 30px;
+    border-radius: 40px;
+}
+
+.nav a {
+    margin: 0px 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+.nav a:hover {
+    color: #DDAED3;
+}
+
+.logo img {
+    height: 60px;
+    width: auto;
+    display: flex;
+   
+}

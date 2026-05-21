@@ -1,0 +1,29 @@
+.navbar {
+    background-color: #7a7693;
+    margin: 20px;
+    border-radius: 50px;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    position: fixed;
+}
+ 
+.nav {
+    background: #EEEEEE;
+    padding: 20px 30px ;
+    margin-right: 70px;
+    border-radius: 40px;
+}
+ 
+.nav a {
+    margin: 0px 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+ 
+.nav a:hover {
+    color: #DDAED3;
+}
